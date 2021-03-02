@@ -9,4 +9,4 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/thehopeless420/), [Facebook](https://www.facebook.com/spandan.chakravarty/) , [LinkedIn](https://www.linkedin.com/in/spandan-chakravarty-88a1345a/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
-- <img src="https://github-readme-stats.vercel.app/api?username=spandan1460&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- <img src="https://github-readme-stats.vercel.app/api?username=spandan1460&&show_icons=true&title_color=ff005c&icon_color=ffe227&text_color=16c79a&bg_color=26001b">
