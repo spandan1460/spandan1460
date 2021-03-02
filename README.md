@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Web Development (Javascript)
+- 🔭 I’m currently working on Web Development (Javascript),Python,Machine Learning
 - 🌱 I’m currently learning Web Development(using MERN Satck)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with React.js,Python,Machine Learning
