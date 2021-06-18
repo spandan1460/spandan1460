@@ -11,9 +11,14 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
-### Spandan's Github Stats
+
+### Github Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=spandan1460&&show_icons=true&title_color=ff005c&icon_color=ffe227&text_color=16c79a&bg_color=26001b">
+
+<a href="https://github.com/spandan1460/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan1460&layout=compact&show_icons=true&theme=chartreuse-dark" />
+</a>
 
 
 ### Connect With Me ✌
@@ -33,14 +38,12 @@
   
   
   
-  ### Github Stats:
+
 
 <!-- <a href="https://github.com/spandan1460/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandan1460&show_icons=true&theme=chartreuse-dark" />
 </a> -->
-<a href="https://github.com/spandan1460/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan1460&layout=compact&show_icons=true&theme=chartreuse-dark" />
-</a>
+
 
 <!-- 
 [![Spandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=spandan1460&show_icons=true&theme=tokyonight)](https://github.com/spandan1460/github-readme-stats)
