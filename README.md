@@ -37,9 +37,9 @@
   
   ### Github Stats:
 
-<a href="https://github.com/spandan1460/github-readme-stats">
+<!-- <a href="https://github.com/spandan1460/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spandan1460&show_icons=true&theme=chartreuse-dark" />
-</a>
+</a> -->
 <a href="https://github.com/spandan1460/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandan1460&layout=compact&show_icons=true&theme=chartreuse-dark" />
 </a>
