@@ -13,14 +13,9 @@
 - <img src="https://github-readme-stats.vercel.app/api?username=spandan1460&&show_icons=true&title_color=ff005c&icon_color=ffe227&text_color=16c79a&bg_color=26001b">
 
 
-### Spotify Playing 🎧
+### Connect With Me ✌
 <table width="100%"> 
   <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31guxgaeufqh2zbdvn5a3xxky23u)
-
-  </td>
   <td width="50%">
 
 <br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
@@ -29,7 +24,7 @@
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/spandan1460)
 </p>
   </td>
-  </table>
+</table>
   
   
   
