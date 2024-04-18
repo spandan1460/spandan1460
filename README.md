@@ -1,11 +1,11 @@
 ### Hi there 👋 I am Spandan
 
 
-- 🔭 I’m currently working on Web Development (Javascript),Machine Learning,App Development(NDK), Flutter Development
-- 🌱 I’m currently learning Web Development(using MERN Satck),App Development(NDK), Flutter Development
+- 🧠 I have worked and knowledge on Web Development (Javascript),Machine Learning,App Development(NDK), Flutter Development
+- 🌱 I’m currently into Devops, Linux, Bash Scripting.
 - 👯 I’m looking to collaborate on React.js, Flutter Development
-- 🤔 I’m looking for help with React.js,Machine Learning, Flutter Development
-- 💬 Ask me about: Web Development, App Development
+- 🤔 I’m looking for help with React.js,Machine Learning, Flutter Development, Devops
+- 💬 Ask me about: Web Development, App Development, Devops
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: [Instagram](https://www.instagram.com/thehopeless420/), [Facebook](https://www.facebook.com/spandan.chakravarty/) , [LinkedIn](https://www.linkedin.com/in/spandan-chakravarty-88a1345a/)
 - 😄 Pronouns: He
