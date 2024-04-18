@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Spandan
 
 
-- 🧠 I have worked and knowledge on Web Development (Javascript),Machine Learning,App Development(NDK), Flutter Development
+- 🧠 I have worked and knowledge on Web Development (Javascript),Machine Learning,App Development(NDK), Flutter Development, SRE, Devops
 - 🌱 I’m currently into Devops, Linux, Bash Scripting.
 - 👯 I’m looking to collaborate on React.js, Flutter Development
 - 🤔 I’m looking for help with React.js,Machine Learning, Flutter Development, Devops
